@@ -22,5 +22,8 @@ echo "${var.NGINX_CONF}" > /etc/nginx/nginx.conf
 systemctl restart nginx
 
 EOT
-
+  tags = {
+    Inbank  = "Hello"
+    Creator = "js@inbank.com"
+  }
 }
