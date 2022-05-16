@@ -4,4 +4,4 @@
     a) Quickest deployment
     b) Cheapest
 4. https://inbank.iorys.uk
-5. For highly avalable i would use eks but it's requires way more time. 
+5. For highly avalability I would use eks but it's requires way more time. 
